@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'ShinryuSou';
+	src: url(../../assets/fonts/ShinryuSou-3da30aba85e340af1cc6d6d0f8947b61.woff2) format('woff2'),
+	url(../../assets/fonts/ShinryuSou-cb1a6dbb7f99a13191f824ff02b20b66.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

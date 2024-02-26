@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-530a6f3af336426672417afe5c1dedbc.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-b4ba559fbc0ce0434c5746a6bac0b54d.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-e4d693bdd7c766fcb76387cce133a05e.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-b84538430628ac96c2af91cfff9e10a8.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-33a8d55659caab88ccaa4b9d35a02e9c.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-9ed6f88593cd4ffa3ac7f48531bad454.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-5016b1763f81318c4229381b870ebbfd.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-082f527ade69c182bc2a543be9898564.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-3e503b6ce425db7791450916b4c1594a.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-791ac2f47e3c336c61250bcbceed3a5c.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModernMono10';
+	src: url(../../assets/fonts/NewComputerModernMono10-ccbc70e69bfa9b1be07f7ef391633291.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModernMono10-140139612ad7c0207743d8a262e51c6d.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

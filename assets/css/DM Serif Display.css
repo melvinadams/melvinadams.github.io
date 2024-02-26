@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'DM Serif Display';
+	src: url(../../assets/fonts/DM%20Serif%20Display-d28296f4f3bd252f97a6eda45ee88fdd.woff2) format('woff2'),
+	url(../../assets/fonts/DM%20Serif%20Display-eaafcae6af44b52d51dfd4b2300b5627.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'DM Serif Display';
+	src: url(../../assets/fonts/DM%20Serif%20Display-a925e4e3aaca9b02ffe4570a24818f52.woff2) format('woff2'),
+	url(../../assets/fonts/DM%20Serif%20Display-3bb9271261f04c19a60863d5cfb3d059.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}

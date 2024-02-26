@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-6d66bef44517076347043a2da36ed91e.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-2702e0006ea66e060a3117ca34407ef4.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-ffe441d6061803ff601a6a322d1fe921.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-81e957c266e28dc71e05d5879fc911a9.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-e5b1b9963c214732c57dcb148f010490.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-cc82168f2ecd860ab0930b39686ddc51.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-dd872cfe156cd49d366634d3dbc2b367.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-bc5294085660d0f98f3ac77fc89bef49.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-a903e4c42aa80f17500eae20d50cafce.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-ff05efad221d2b6a2bbe058bcf66cefd.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewComputerModern10';
+	src: url(../../assets/fonts/NewComputerModern10-c235fc5a278c052dd251b6c6a407fddc.woff2) format('woff2'),
+	url(../../assets/fonts/NewComputerModern10-fbcd5093655266990a3fd94c9ed19e1d.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
