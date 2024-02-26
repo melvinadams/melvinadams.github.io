@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-5c1ab7027359f763cd2344ea0a6c7099.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-5e526f8c7f7bd5ad670d997d81f2e02e.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-818b449aa82025367fad89b7238460c7.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-7117756dca73c5a58cee7ee2f329b562.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-fcadd7c38caf630b317150476e6cb845.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-068d52111c260b49355966ba6ba0e4d7.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-f5d5e8aaa36f3c388f18e4cd81e6b412.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-9c55bf4063cc81bdb92cf259a9750a80.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-97c9096edac612ca8b2ac1505354af06.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-245dccbf1c036de1a60b82672823190d.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-e5a6cf4fb893244de3373deed9b58465.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-72d2b75a4198c6631e2e3118a6c2a800.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NotoSerifSC';
+	src: url(../../assets/fonts/NotoSerifSC-2daf788ae7956e7aacbf279c140853eb.woff2) format('woff2'),
+	url(../../assets/fonts/NotoSerifSC-3d536162324a601db30872aef10e4583.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
